@@ -1,4 +1,4 @@
-let paragrafo = document.querySelector('p');
+let paragrafo = document.querySelector('h1');
 
-paragrafo.innerHTML = "Vamos aprender um pouco de DOM";
+paragrafo.innerHTML = "O QUE É DOM ?";
 paragrafo.style = "color:white;  font-size:25px; background-color:black; text-align:center; padding:10px "
